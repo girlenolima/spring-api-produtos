@@ -5,7 +5,7 @@ O projeto em questão é um Sistema de Gerenciamento de Produtos desenvolvido em
 
 Entretanto, é importante notar que esta é uma implementação básica. Em futuras atualizações, serão incorporadas práticas adicionais, incluindo segurança com Spring Security, testes automatizados e a separação de serviços.
 
-Como diziam os antigos em latim: 'Ex nihilo nihil fit' - Nada surge do nada. Esta implementação foi adaptada a partir das aulas da professora [Michelli Brito](https://www.youtube.com/@MichelliBrito).
+Como diziam os antigos em latim: 'Ex nihilo nihil fit' - Nada surge do nada. Esta implementação foi adaptada a partir das aulas da professora [Michelli Brito](https://www.youtube.com/@MichelliBrito), bem como a propria documentaçao do [Spring Framework](https://docs.spring.io/spring-framework/reference/index.html).
 
 
 ## Classes Principais:
